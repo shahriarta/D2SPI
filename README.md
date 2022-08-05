@@ -1,11 +1,11 @@
 # Data-Driven Structured Policy Iteration
 
 
-In this repository, we provide the code in Exp1.m , Exp2.m and Exp3.m files for the simulations of the following manuscript:  <br> <br>
+In this repository, we provide the code for the simulations of the following manuscript (see the files Exp1.m , Exp2.m and Exp3.m):  <br> <br>
 
 
-### [Data-Driven Structured Policy Iteration for
-Homogeneous Distributed Systems] https://arxiv.org/pdf/2103.11572.pdf
+### [Data-Driven Structured Policy Iteration for Homogeneous Distributed Systems] 
+https://arxiv.org/pdf/2103.11572.pdf
 
 Siavash Alemzadeh, Shahriar Talebi, Mehran Mesbahi <br> <br>
 
